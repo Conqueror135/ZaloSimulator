@@ -1,0 +1,1 @@
+This is a project simulator zalo make by Thang Than Thanh
